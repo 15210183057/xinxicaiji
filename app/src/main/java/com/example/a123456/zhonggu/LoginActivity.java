@@ -26,6 +26,7 @@ import jiekou.getInterface;
 import utils.Mydialog;
 import utils.SharedUtils;
 import View.GetJsonUtils;
+//登陆操作
 public class LoginActivity extends BaseActivity implements View.OnClickListener{
     private EditText edt_username;
     private EditText edt_password;
